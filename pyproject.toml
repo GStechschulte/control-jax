@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A JAX library for data-driven model predictive control."
 readme = "README.md"
 authors = [
-    { name = "GStechschulte", email = "gabriel.stechschulte@hslu.ch" }
+    { name = "Gabriel Stechschulte", email = "gabriel.stechschulte@hslu.ch" }
 ]
 requires-python = ">=3.12.5"
 dependencies = []
