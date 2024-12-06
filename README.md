@@ -14,7 +14,8 @@ Below is a list of existing Python libraries for MPC:
 - [nmpyc](https://github.com/nMPyC/nmpyc)
 - [ddmpc](https://github.com/RWTH-EBC/DDMPC)
 
-Other interesting code (that are not libraries):
+Other interesting code:
 
 - [jax-control-algorithms](https://github.com/christianausb/controlAlgorithms/tree/main/jax_control_algorithms/trajectory_optim)
 - [mpc.pytorch](https://github.com/locuslab/mpc.pytorch)
+- [gurobi-machinelearning](https://github.com/Gurobi/gurobi-machinelearning)
