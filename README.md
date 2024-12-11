@@ -13,6 +13,8 @@ Below is a list of existing Python libraries for MPC:
 - [pyMPC](https://github.com/forgi86/pyMPC)
 - [nmpyc](https://github.com/nMPyC/nmpyc)
 - [ddmpc](https://github.com/RWTH-EBC/DDMPC)
+- [python-control](https://github.com/python-control/python-control)
+- [mpcpy](https://github.com/lbl-srg/MPCPy)
 
 Other interesting code:
 
